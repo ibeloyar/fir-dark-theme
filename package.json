@@ -1,0 +1,21 @@
+{
+  "name": "fir-dark-theme",
+  "displayName": "fir-dark-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fir Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fir-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
