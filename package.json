@@ -27,7 +27,7 @@
     "url": "https://github.com/fir-libs/fir-dark-theme/issues"
   },
   "homepage": "https://github.com/fir-libs/fir-dark-theme#readme",
-  "icon": "./icon.png",
+  "icon": "pine.png",
   "keywords": [
     "theme",
     "dark theme",
