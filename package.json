@@ -33,7 +33,8 @@
     "dark theme",
     "forest theme",
     "fir theme",
-    "vscode theme"
+    "vscode theme",
+    "fir"
   ],
   "license": "MIT",
   "scripts": {
