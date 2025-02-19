@@ -23,11 +23,11 @@ jobs:
 
       - name: Set version tag
         run: |
-          $GITHUB_ENV=$(jq '.version' ./package.json)
-          git config --global user.name "ibeloyar-action"
-          git config --global user.email "beloyar.dev@outlook.com"
-          git tag v$GITHUB_ENV
-          git push origin v$GITHUB_ENV
+          TAG=$(jq '.version' ./package.json)
+          git config --global user.name "fir-action"
+          git config --global user.email "fir-action@users.noreply.github.com"
+          git tag v$TAG
+          git push origin v$TAG
 
       - name: Build VSIX
         run: npx vsce package
