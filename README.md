@@ -31,9 +31,9 @@ For now, you can install the For Dark Theme in two ways:
 Primary Colors: 
 The theme is built around two key colors:
 
-#02F2A7 (bright turquoise green) — used for emphasis such as keywords, functions, and syntax highlighting.
+#02F2A7 (bright turquoise green) — used for emphasis such as keywords, and syntax highlighting.
 
-#03BAF1 (rich blue) — used for variables, data types, and other important code elements.
+#03BAF1 (rich blue) — used for data types, and other important code elements.
 
 Nice shades: A dark background with soft gray and black tones creates a cozy atmosphere, and bright accents help you quickly navigate the code.
 
