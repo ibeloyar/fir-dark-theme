@@ -1,11 +1,11 @@
 name: Publish VSIX to GitHub Releases
 
 on:
-  push:
-    branches:
-      - main
+  create:
     tags:
       - '*'
+    branches:
+      - main
 
 jobs:
   build-and-release:
