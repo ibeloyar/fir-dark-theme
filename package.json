@@ -1,8 +1,9 @@
 {
   "name": "fir-dark-theme",
-  "displayName": "fir-dark-theme",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Fir Dark Theme",
+  "description": "A dark theme for Visual Studio Code, inspired by the tones of natural pine forests with modern accents.",
+  "version": "1.0.0",
+  "publisher": "Fir",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -17,5 +18,29 @@
         "path": "./themes/fir-dark-theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fir-libs/fir-dark-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fir-libs/fir-dark-theme/issues"
+  },
+  "homepage": "https://github.com/fir-libs/fir-dark-theme#readme",
+  "icon": "./icon.png",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "forest theme",
+    "fir theme",
+    "vscode theme"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "2.15.0"
   }
 }

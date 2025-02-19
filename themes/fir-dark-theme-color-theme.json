@@ -77,6 +77,11 @@
 		"textCodeBlock.background": "#131313",
 		"textLink.foreground": "#03BAF1",
 		"textLink.activeForeground": "#03BAF1",
+		"titleBar.activeBackground": "#181818",
+		"titleBar.activeForeground": "#EEEEEE",
+		"titleBar.inactiveBackground": "#181818",
+		"titleBar.inactiveForeground": "#EEEEEE",
+		"terminal.background": "#131313",
 	},
 	"tokenColors": [
 		{
