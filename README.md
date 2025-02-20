@@ -22,7 +22,7 @@ For now, you can install the For Dark Theme in two ways:
 ### Installation via source copying
 * Clone or download the theme repository.
 * Copy the fir-dark-theme folder to your user's .vscode/extensions directory:
-    `%USERPROFILE%\.vscode\extensions\` - for Windows 
+    `%USERPROFILE%\.vscode\extensions\` - for Windows<br/>
     `~/.vscode/extensions/` - for macOS/Linux
 * Restart Visual Studio Code.
 * Go to settings (Ctrl + , or Cmd + ,), select "Color Theme" and find Fir Dark Theme.
