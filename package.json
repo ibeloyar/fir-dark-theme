@@ -2,7 +2,7 @@
   "name": "fir-dark-theme",
   "displayName": "Fir Dark Theme",
   "description": "A dark theme for Visual Studio Code, inspired by the tones of natural pine forests with modern accents.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Fir",
   "engines": {
     "vscode": "^1.97.0"
