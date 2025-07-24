@@ -142,6 +142,15 @@
 			}
 		},
 		{
+			"name": "[Keyword Proto 3 modifier]",
+			"scope": [
+				"storage.modifier.proto",
+			],
+			"settings": {
+				"foreground": "#02F2A7"
+			}
+		},		
+		{
 			"name": "[Storage] Language types",
 			"scope": [
 				"storage.type",
